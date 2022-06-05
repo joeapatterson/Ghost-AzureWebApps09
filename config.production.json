@@ -1,0 +1,10 @@
+"database": {
+  "client": "mysql",
+  "connection": {
+    "host": "az-uks-prd-mysqlsvr.mysql.database.azure.com",
+    "port": 3306,
+    "user": "joe",
+    "password": "Test123456789",
+    "database": "mysql"
+  }
+}
